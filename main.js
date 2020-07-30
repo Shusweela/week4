@@ -33,13 +33,12 @@ Function evenOdd(num) {
     console.log("error")
 }
 
-??
+//creating conditional statements
+<h1>"Do I move to Houston this year?"</h1>
+var account;
+var car;
 
-}
-if pink % 2 = 0, 
-console.log ("This is an even number"),
-
-else console.log("This number is odd")
-
-
-    Counter % 3
+if account => $3000 % car = true, then "yes";
+else if account < $3000, | car = false,then "no"; 
+else if account ~ < $5000, console.log ("yes")
+else "error";
